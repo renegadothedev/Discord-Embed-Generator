@@ -1,11 +1,4 @@
-
 PyQt6==6.6.1
-
-
 Pillow==10.2.0
-
-
 requests==2.31.0
-
-
 black==24.2.0

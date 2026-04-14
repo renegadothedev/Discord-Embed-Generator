@@ -1,7 +1,7 @@
 import sys
 from PyQt6.QtWidgets import (
     QApplication, QMainWindow, QWidget, QVBoxLayout, QHBoxLayout, 
-    QLineEdit, QTextEdit, QLabel, QScrollArea, QColorDialog, QCheckBox
+    QLineEdit, QTextEdit, QLabel, QScrollArea, QColorDialog, QCheckBox, QPushButton
 )
 from PyQt6.QtCore import Qt, pyqtSignal
 from ui.styles import STYLE_SHEET
