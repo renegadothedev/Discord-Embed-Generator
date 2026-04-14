@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-O **Discord Embed Generator** é uma ferramenta desktop desenvolvida em Python com PyQt6 que permite criar embeds personalizados para o Discord de forma visual e intuitiva. Com uma interface gráfica amigável, você pode visualizar as alterações em tempo real, facilitando a criação de mensagens ricas e atrativas para seus servidores Discord.
+O **Discord Embed Generator** é uma ferramenta desktop desenvolvida em Python com PyQt6 que permite criar embeds personalizados para o Discord de forma visual e intuitiva. Com uma interface gráfica amigável, você pode visualizar as alterações em tempo real, facilitando a criação de mensagens ricas e atrativas para seus servidores Discord. Esse projeto e um OpenSource, o Projeto original e programado para uso da comunidade está nas Releases.
 
 ## Funcionalidades Principais
 
@@ -103,6 +103,3 @@ Contribuições são bem-vindas! Para contribuir:
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Créditos
-
-Agradecimentos especiais à comunidade Python e PyQt6 por fornecerem ferramentas poderosas para desenvolvimento de aplicações desktop. Inspirado em ferramentas similares para criação de embeds Discord.
