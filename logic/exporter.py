@@ -25,5 +25,4 @@ class EmbedExporter:
 
     @staticmethod
     def to_discord_js(data):
-        # Lógica similar para EmbedBuilder do d.js v14
         return "const embed = new EmbedBuilder()..."
